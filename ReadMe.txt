@@ -1,6 +1,9 @@
 This document explains steps to run the application locally step wise:
 
 -> Import the project as an existing maven project and build it.
+
+   P.S. The project is configured to use java 1.8 by default.
+   
 -> Add the project onto your localhost server and run it.
 -> The project consists of Integration tests which can help hit the resource classes which
   implement the functionality in CampaignResourceClientTest class.
